@@ -1,4 +1,4 @@
-# nomad-jenkins-slave
+# nomad-jenkins-agent
 
 ## Uasage
 
